@@ -1,5 +1,33 @@
 # 💫 About Me:
-<br>🔭 I’m currently working on: Building a Todo app with token-based authentication, utilizing Node.js for the backend and React for the frontend. I’m also enhancing my skills in web development and UI design.<br>👯 I’m looking to collaborate on: Projects involving full-stack development, particularly those that focus on improving user experience and functionality. I’m interested in working with others who are passionate about creating impactful web applications.<br>🤝 I’m looking for help with: Advanced concepts in backend development, especially related to database management and API integrations. Any guidance on optimizing performance and security in web applications would be greatly appreciated!<br>🌱 I’m currently learning: More about Node.js, Express, and MongoDB for backend development, as well as Tailwind CSS for styling my React applications. I'm also exploring best practices for implementing authentication and authorization in web apps.<br>💬 Ask me about: My experiences in web development, projects I’ve worked on, or any insights I can share about learning to code. I’m also happy to discuss my vision for a technology-driven future in Nepal!<br>⚡ Fun fact about me: I’m passionate about making technology accessible to everyone and envision starting an IT company that can leverage innovative solutions to bridge the digital divide in my country.<br><br>
+🔭 **I’m currently working on**  
+- Building a personal portfolio website using React and Tailwind CSS.  
+- Exploring machine learning and deep learning algorithms with Python.  
+<br><br>
+👯 **I’m looking to collaborate on**  
+- Open-source projects, especially those related to web development or AI.  
+- Building tools or applications that can improve accessibility and user experience.
+<br><br>
+
+🤝 **I’m looking for help with**  
+- Advanced React patterns and best practices for state management.  
+- Improving my knowledge of AI frameworks like TensorFlow and PyTorch.
+<br><br>
+
+🌱 **I’m currently learning**  
+- How to integrate machine learning models into web applications.  
+- Exploring the latest features of TypeScript and Next.js.
+<br><br>
+
+💬 **Ask me about**  
+- JavaScript, React, and web development in general.  
+- Best practices for clean code and scalable applications.  
+- Basic machine learning concepts and algorithms.
+<br><br>
+
+⚡ **Fun fact**  
+- I once built a chatbot that can recognize and respond to weather patterns!  
+- I love stargazing and studying the night sky when I'm not coding.  
+
 
 
 ## 🌐 Socials:
