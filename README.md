@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Bishal Kushwar Majhi<br>I'm a Web Backend Developer and Web Development Teacher passionate about building scalable web applications. I specialize in the MERN stack and enjoy solving complex problems with clean and efficient code.
+👋 Hello, I'm Bishal Kushwar Majhi<br>I'm a Web Backend Developer and passionate about building scalable web applications. I specialize in the MERN stack and enjoy solving complex problems with clean and efficient code.
 
 
 ## 🌐 Socials:
